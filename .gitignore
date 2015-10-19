@@ -1,3 +1,4 @@
+*.mq4
 /Experts/*
 /Files/*
 /Include/*
